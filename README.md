@@ -26,6 +26,21 @@ Before running or building the application, make sure you have the following ins
    ```bash
    pip install PyMuPDF tkinter
 
-**How to Run the Application**
-Clone the repository,
-Run the application:
+## How to Run the Application
+- Clone the repository,
+- Run the application:
+
+# How to Build the Executable
+  
+- To create a standalone executable file (.exe) from the Python script, follow these steps:
+
+- Install PyInstaller
+  
+```bash
+  pip install pyinstaller
+  pyinstaller --windowed --onefile --icon="pdfviewer.ico" main.py
+
+
+
+
+
