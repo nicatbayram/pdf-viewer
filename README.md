@@ -39,8 +39,3 @@ Before running or building the application, make sure you have the following ins
 ```bash
   pip install pyinstaller
   pyinstaller --windowed --onefile --icon="pdfviewer.ico" main.py
-
-
-
-
-
