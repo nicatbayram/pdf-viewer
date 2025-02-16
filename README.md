@@ -40,8 +40,8 @@ Before running or building the application, make sure you have the following ins
    pip install pyinstaller
    pyinstaller --windowed --onefile --icon="pdfviewer.ico" main.py
  
+## ScreenShots
 
-
-<img width="484" alt="pdf1" src="https://github.com/user-attachments/assets/64d2c691-c0fd-404c-aa71-02195e15f907" />
-<img width="482" alt="pdf2" src="https://github.com/user-attachments/assets/d9ac80c6-b594-44d2-a1b6-9a0d0d5d1707" />
+<img width="400" alt="pdf1" src="https://github.com/user-attachments/assets/64d2c691-c0fd-404c-aa71-02195e15f907" />
+<img width="400" alt="pdf2" src="https://github.com/user-attachments/assets/d9ac80c6-b594-44d2-a1b6-9a0d0d5d1707" />
 
